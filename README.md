@@ -1,6 +1,10 @@
 MLC-BMaD
 ========
 
+*MLCBMaD is now included in Meka*
+
+An alternative implementation is directly available in Meka: https://github.com/Waikato/meka
+
 This project contains a multi-label classifier based on Boolean
 matrix decomposition. Boolean matrix decomposition is used to extract,
 from the full label matrix, latent labels representing useful Boolean
